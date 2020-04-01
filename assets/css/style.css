@@ -25,11 +25,10 @@ ul{
 img{
     height: 100%;
 }
-div#photo-display{
-    display: inline-block;
+div#photo{
+    border-right: 1px solid grey;
 
 }
-div#aboutme {
-    border: 1px solid red;
-    display: inline-block;
+.container {
+    background-color:#ebb; 
 }
