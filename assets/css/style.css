@@ -1,0 +1,35 @@
+html {
+    background-color:#ebb; 
+}
+#cv-column {
+    background-color:#878;
+    height: 100%;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 110px;
+    border-right: 1px solid #745;
+}
+
+li {
+    display: list-item;
+    text-align: inherit;
+    border-bottom: 1px solid #657;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+
+}
+img{
+    height: 100%;
+}
+div#photo-display{
+    display: inline-block;
+
+}
+div#aboutme {
+    border: 1px solid red;
+    display: inline-block;
+}
